@@ -48,3 +48,5 @@ documentation when it changes.
 [dx]: https://github.com/DioxusLabs/dioxus/tree/main/packages/cli
 [section on contributing]: https://dioxuslabs.com/learn/0.6/contributing
 [issue tracker]: https://github.com/dioxuslabs/docsite/issues
+
+And... let's trigger a docsite deployment.
